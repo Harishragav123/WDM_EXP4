@@ -1,8 +1,8 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
 ### DATE: 10.03.24
 ```
-Name: BARATH.E
-Reg.No:212221040026
+Name: Harish Ragav 
+Reg.No:212221040053
 ```
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
